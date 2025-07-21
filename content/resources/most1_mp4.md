@@ -15,10 +15,10 @@ resourcetype: Video
 title: most1.mp4
 uid: 2cf6f16f-f166-428c-9c09-01e8352e48a6
 video_files:
-  archive_url: ''
-  video_captions_file: ''
+  archive_url: https://ia601309.us.archive.org/14/items/MIT18.085F08/ocw-18.085-f08-rec01_300k.mp4
+  video_captions_file: /courses/course1-ibra/most1_captions.vtt
   video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_transcript_file: /courses/course1-ibra/transcript.pdf
 video_metadata:
   source: ''
   video_speakers: ''
