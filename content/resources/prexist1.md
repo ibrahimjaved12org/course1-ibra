@@ -14,7 +14,7 @@ resourcetype: Video
 title: prexist1
 uid: 54962c0e-b900-4e24-8f33-9f2f1673b31c
 video_files:
-  archive_url: ''
+  archive_url: https://ia600708.us.archive.org/30/items/chalk-radio/S05E01_Anne_White_360p.mp4
   video_captions_file: /courses/course1-ibra/E8uZtq_vOYM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
   video_transcript_file: /courses/course1-ibra/E8uZtq_vOYM_transcript.pdf
