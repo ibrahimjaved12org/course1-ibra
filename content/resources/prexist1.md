@@ -2,7 +2,7 @@
 content_type: resource
 draft: false
 file: null
-file_size: 112781231
+file_size: 67028401
 file_type: ''
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ resourcetype: Video
 title: prexist1
 uid: 54962c0e-b900-4e24-8f33-9f2f1673b31c
 video_files:
-  archive_url: ''
+  archive_url: https://dn720405.ca.archive.org/0/items/mit-2020-vision/MIT_2020_Vision_Part_6_300k.mp4
   video_captions_file: /courses/course1-ibra/E8uZtq_vOYM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
   video_transcript_file: /courses/course1-ibra/E8uZtq_vOYM_transcript.pdf
