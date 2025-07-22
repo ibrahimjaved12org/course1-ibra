@@ -2,7 +2,7 @@
 content_type: resource
 draft: false
 file: null
-file_size: ''
+file_size: 112781231
 file_type: ''
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ resourcetype: Video
 title: prexist2
 uid: 9342c206-e027-476b-8b27-c4a1389caeec
 video_files:
-  archive_url: ''
+  archive_url: https://ia601309.us.archive.org/14/items/MIT18.085F08/ocw-18.085-f08-rec01_300k.mp4
   video_captions_file: /courses/course1-ibra/E8uZtq_vOYM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
   video_transcript_file: /courses/course1-ibra/E8uZtq_vOYM_transcript.pdf
