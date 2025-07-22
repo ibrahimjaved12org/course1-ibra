@@ -15,7 +15,7 @@ resourcetype: Video
 title: most1.mp4
 uid: 2cf6f16f-f166-428c-9c09-01e8352e48a6
 video_files:
-  archive_url: https://ia902602.us.archive.org/17/items/youtube-lUUte2o2Sn8/lUUte2o2Sn8.mp4
+  archive_url: https://ia600708.us.archive.org/30/items/chalk-radio/S05E01_Anne_White_360p.mp4
   video_captions_file: /courses/course1-ibra/most1_captions.vtt
   video_thumbnail_file: ''
   video_transcript_file: /courses/course1-ibra/transcript.pdf
