@@ -1,0 +1,31 @@
+{
+  "term": "Spring",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course1-ibra"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course1-ibra"
+  },
+  "course_title": "course1-ibra",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "course1-ibra",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "course1-ibra",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "3eefa98c-29d6-4baa-864f-49edb3ec9d82",
+  "site_short_id": "course1-ibra"
+}
