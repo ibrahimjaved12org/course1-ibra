@@ -15,9 +15,9 @@ title: prexist2
 uid: 9342c206-e027-476b-8b27-c4a1389caeec
 video_files:
   archive_url: ''
-  video_captions_file: /courses/course1-ibra/E8uZtq_vOYM_captions.webvtt
+  video_captions_file: /courses/course1-ibra-course1-ibra-spring-2002/E8uZtq_vOYM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
-  video_transcript_file: /courses/course1-ibra/E8uZtq_vOYM_transcript.pdf
+  video_transcript_file: /courses/course1-ibra-course1-ibra-spring-2002/E8uZtq_vOYM_transcript.pdf
 video_metadata:
   source: youtube
   video_speakers: ''

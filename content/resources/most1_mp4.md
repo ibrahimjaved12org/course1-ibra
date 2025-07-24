@@ -16,9 +16,9 @@ title: most1.mp4
 uid: 2cf6f16f-f166-428c-9c09-01e8352e48a6
 video_files:
   archive_url: https://ia600708.us.archive.org/30/items/chalk-radio/S05E01_Anne_White_360p.mp4
-  video_captions_file: /courses/course1-ibra/most1_captions.vtt
+  video_captions_file: /courses/course1-ibra-course1-ibra-spring-2002/most1_captions.vtt
   video_thumbnail_file: ''
-  video_transcript_file: /courses/course1-ibra/transcript.pdf
+  video_transcript_file: /courses/course1-ibra-course1-ibra-spring-2002/transcript.pdf
 video_metadata:
   source: ''
   video_speakers: ''
