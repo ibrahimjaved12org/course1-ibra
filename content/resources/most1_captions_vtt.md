@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course1-ibra/most1_captions.vtt
+file: /courses/course1-ibra-course1-ibra-spring-2002/most1_captions.vtt
 file_size: 4434
 file_type: text/vtt
 image_metadata:

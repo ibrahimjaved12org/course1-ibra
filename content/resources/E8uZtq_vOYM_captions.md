@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/course1-ibra/E8uZtq_vOYM_captions.webvtt
+file: /courses/course1-ibra-course1-ibra-spring-2002/E8uZtq_vOYM_captions.webvtt
 file_size: 447
 file_type: application/x-subrip
 learning_resource_types: []

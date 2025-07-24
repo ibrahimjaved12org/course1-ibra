@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course1-ibra/most1_transcript.pdf
+file: /courses/course1-ibra-course1-ibra-spring-2002/most1_transcript.pdf
 file_size: 76303
 file_type: application/pdf
 image_metadata:

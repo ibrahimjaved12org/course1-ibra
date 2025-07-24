@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/course1-ibra/E8uZtq_vOYM_transcript.pdf
+file: /courses/course1-ibra-course1-ibra-spring-2002/E8uZtq_vOYM_transcript.pdf
 file_size: 18072
 file_type: application/pdf
 learning_resource_types: []
